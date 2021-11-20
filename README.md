@@ -2,6 +2,7 @@
 ## Online 
 
 ### Test your technology ( Zoom, Hangout, etc)
+__Very elementary but one would be surprisied to know how often we, as a community, fail at basics__ 
 
 * Ensure microphone is working
 * Ensure Video ( if required ) is working 
