@@ -9,7 +9,7 @@ I would like to breakdown the solution into the following
 3. Interfaces / APIs
 4. Entities & Relationships
 5. Architecture / Design
-6. Misc: Scaling, Monintoring / Observability, Handling Failures etc... 
+6. Misc: Scaling, Monintoring / Observability, Handling Failures etc ... 
 
 ### Requirement ( Scope )
 
@@ -60,7 +60,7 @@ e.g. Application Server, DB , Blob Store, Webserver etc...
 Check which part of the said design one wants to discuss more and then go in details of design ( could be OOP, frameworks, tools, etc ...)
 
 
-## Scaling
+## Misc: Scaling, Monintoring / Observability, Handling Failures etc ...
 
 Disclaimer : I find this very subjective and most time the methods one applies are pretty much standardizes unless some commpany uses some inhouse mechanisms ( and they typically turn out to be poor immitations of best practices or Open source tools)
 
